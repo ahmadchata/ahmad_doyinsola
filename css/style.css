@@ -1,0 +1,19 @@
+#image {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  max-width: 500px;
+  width: auto;
+  height: auto;
+}
+#title {
+    margin-top: 50px;
+    width: auto;
+    text-align: center;
+}
+#img-caption, #tribute-info, ul {
+    margin: 10px auto;
+    text-align: center;
+    list-style: none;
+}
